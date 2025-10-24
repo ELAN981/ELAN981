@@ -1,13 +1,13 @@
 
-## 👋 Hi, I'm Kgaogelo!
+## Hi, Hello, I'm Kgaogelo!
 
 I'm a passionate and aspiring developer with a strong interest in **Software Engineering**, **Data Science**, and **Cloud Computing**. I'm eager to begin my career in tech, continuously learning and sharpening my skills along the way. I thrive on solving problems, building meaningful digital experiences, and exploring new technologies.
 
 ---
 
-## 🚀 Skills & Technologies
+##  Skills & Technologies
 
-### 💻 Front-End Development
+###  Front-End Development
 - HTML, CSS, JavaScript
 - Responsive Web Design
 - React.js (including SPA architecture)
@@ -16,18 +16,18 @@ I'm a passionate and aspiring developer with a strong interest in **Software Eng
 - Usability Testing
 - Persona-Based UX Design
 
-### 🛠️ Development Tools
+###  Development Tools
 - Git & GitHub (Version Control)
 - Web Development Tools
 - Unix Commands
 - Data Validation
 
-### 🐍 Backend & Programming
+###  Backend & Programming
 - Python Development
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 - Cloud Services & Infrastructure
 - Advanced React Patterns
 - Data Science Foundations
