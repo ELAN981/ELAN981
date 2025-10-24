@@ -35,8 +35,8 @@ I'm a passionate and aspiring developer with a strong interest in **Software Eng
 
 ---
 
-## 📫 Let's Connect
-- 📧 Email: elanmaker@icloud.com
+## Let's Connect
+- Email: elanmaker@icloud.com
 
 ---
 
